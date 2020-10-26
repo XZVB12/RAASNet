@@ -3,7 +3,12 @@
 </h1>
 
 <h2 align="center">
-   Visit jezsjxtthkqhlqoc.onion for a complete C&C.
+   Visit our Onion site for a complete C&C !
+   
+   
+   New Onion Domain:
+   
+   hplqdv5fo3vw3fjyamyer7yuc7xtvtop2j3fipc7psf3pxvhoqjoqkid.onion
 </h2>
 
 ![license](https://img.shields.io/github/license/leonv024/RAASNet "License")
@@ -21,7 +26,8 @@
 </p>
 
 ![alt text](./demo/RAASNET-demo.png)
-![alt text](./demo/new_dashboard.png)
+![alt text](./demo/panel1.png)
+![alt text](./demo/panel2.png)
 ![alt text](./demo/new_profile.png)
 ![alt text](./demo/demonware_demo.jpeg)
 
